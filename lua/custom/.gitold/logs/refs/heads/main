@@ -1,0 +1,74 @@
+0000000000000000000000000000000000000000 25d9aed3f539f9cd717adc441deee94b13db3e99 Mhirii <ahmedmhiri218@gmail.com> 1705632839 +0100	clone: from https://github.com/Mhirii/nvchad/
+25d9aed3f539f9cd717adc441deee94b13db3e99 4a6c8f8df5e7aa84aeb392997925ae4bef9cdd09 Mhirii <ahmedmhiri218@gmail.com> 1705727871 +0100	pull --no-edit: Fast-forward
+4a6c8f8df5e7aa84aeb392997925ae4bef9cdd09 067950b109cd3353274374edccd024a62b88ee3c Mhirii <ahmedmhiri218@gmail.com> 1705771237 +0100	pull --no-edit: Fast-forward
+067950b109cd3353274374edccd024a62b88ee3c 5a2ef7804fbbd46b7c497d370f359276b2249a7c Mhirii <ahmedmhiri218@gmail.com> 1705895484 +0100	pull --no-edit: Fast-forward
+5a2ef7804fbbd46b7c497d370f359276b2249a7c e4814c49703db95e222df05df6f6dae4e8074214 Mhirii <ahmedmhiri218@gmail.com> 1705898443 +0100	commit: hawkey
+e4814c49703db95e222df05df6f6dae4e8074214 5d326fd3eba091e84e1ee08ae2362998c2eae080 Mhirii <ahmedmhiri218@gmail.com> 1705898459 +0100	commit: lsplines
+5d326fd3eba091e84e1ee08ae2362998c2eae080 00a96a136c3832544fccf2719412a501462e33a1 Mhirii <ahmedmhiri218@gmail.com> 1705903295 +0100	commit: reactive modes
+00a96a136c3832544fccf2719412a501462e33a1 b9ba0f31a72f521c7f510086d801dca47773a3d0 Mhirii <ahmedmhiri218@gmail.com> 1705904753 +0100	commit: glance
+b9ba0f31a72f521c7f510086d801dca47773a3d0 3bcf61d98e6ffca40a5bd6131de9293481fa2062 Mhirii <ahmedmhiri218@gmail.com> 1705930958 +0100	commit: fix
+3bcf61d98e6ffca40a5bd6131de9293481fa2062 7cd2eea4192bdeb12e49468d8fed533ded7fcd97 Mhirii <ahmedmhiri218@gmail.com> 1705935111 +0100	pull --no-edit: Fast-forward
+7cd2eea4192bdeb12e49468d8fed533ded7fcd97 5d696eb7e3cca7eee8969916eb19a6e43f476a7d Mhirii <ahmedmhiri218@gmail.com> 1705964291 +0100	commit: golang support
+5d696eb7e3cca7eee8969916eb19a6e43f476a7d d8d926df99334093ca87efe36babfb17cd5ec134 Mhirii <ahmedmhiri218@gmail.com> 1705965786 +0100	commit: fix
+d8d926df99334093ca87efe36babfb17cd5ec134 c428fa0edc91ceed70933eff7972fe9d7f7f9f21 Mhirii <ahmedmhiri218@gmail.com> 1706036365 +0100	commit: oil.nvim
+c428fa0edc91ceed70933eff7972fe9d7f7f9f21 392c0d4077ef70a08b579896a764e1270e05dd9b Mhirii <ahmedmhiri218@gmail.com> 1706039825 +0100	commit: modicator colors
+392c0d4077ef70a08b579896a764e1270e05dd9b e51dcdb6289ae491e0d55d0e02151db7ed0cd10d Mhirii <ahmedmhiri218@gmail.com> 1706050141 +0100	pull: Fast-forward
+e51dcdb6289ae491e0d55d0e02151db7ed0cd10d 7d34e344ca09b08e75622b571037142a9c502fe9 Mhirii <ahmedmhiri218@gmail.com> 1706050174 +0100	commit: annoying marks
+7d34e344ca09b08e75622b571037142a9c502fe9 641699003731f9849b4310fc51c5e37402c521fa Mhirii <ahmedmhiri218@gmail.com> 1706132654 +0100	pull --no-edit: Fast-forward
+641699003731f9849b4310fc51c5e37402c521fa ffd097f89f3e658d7462ef4c1fcdb33808600626 Mhirii <ahmedmhiri218@gmail.com> 1706169997 +0100	commit: neorg
+ffd097f89f3e658d7462ef4c1fcdb33808600626 eaba8e08873793f154fc95b6854ed279f72435c6 Mhirii <ahmedmhiri218@gmail.com> 1706171536 +0100	commit: rest client
+eaba8e08873793f154fc95b6854ed279f72435c6 65d5f4b1413a4aecdb909962ca2c36c4067911ae Mhirii <ahmedmhiri218@gmail.com> 1706186861 +0100	pull --no-edit: Fast-forward
+65d5f4b1413a4aecdb909962ca2c36c4067911ae 2a77d6309759eaf1fa710e24cd3c22b98a04b23e Mhirii <ahmedmhiri218@gmail.com> 1706217417 +0100	commit: neorg lazy load
+2a77d6309759eaf1fa710e24cd3c22b98a04b23e 2bef247f2628787d42c9dc6e6c44e996aa73c3f4 Mhirii <ahmedmhiri218@gmail.com> 1706220083 +0100	commit: hop binds
+2bef247f2628787d42c9dc6e6c44e996aa73c3f4 47adb975edfc7359a5526ee7ea9fcef6d3b2b7d0 Mhirii <ahmedmhiri218@gmail.com> 1706223219 +0100	commit: load maps based on settings
+47adb975edfc7359a5526ee7ea9fcef6d3b2b7d0 529caaf8d13c819121ddfdec2b707b8ff4fb8f24 Mhirii <ahmedmhiri218@gmail.com> 1706224417 +0100	commit: tidy
+529caaf8d13c819121ddfdec2b707b8ff4fb8f24 05a57ebac176e2854784b5da8c281b2c425175af Mhirii <ahmedmhiri218@gmail.com> 1706541982 +0100	pull --no-edit: Fast-forward
+05a57ebac176e2854784b5da8c281b2c425175af 483fd199d5b9b2fc9155131de76b89e95304a27e Mhirii <ahmedmhiri218@gmail.com> 1707055417 +0100	commit: format
+483fd199d5b9b2fc9155131de76b89e95304a27e f32021d4c15d9ea1478e21bf2ac4f8f7f80d3114 Mhirii <ahmedmhiri218@gmail.com> 1707063347 +0100	commit: fix load
+f32021d4c15d9ea1478e21bf2ac4f8f7f80d3114 49c3df2dd1610fc20aacfce5fbdeea61bdeb1228 Mhirii <ahmedmhiri218@gmail.com> 1707063426 +0100	commit: WIP mappings remake
+49c3df2dd1610fc20aacfce5fbdeea61bdeb1228 06d74b6f5c2fbc890bb26099893d56510273041c Mhirii <ahmedmhiri218@gmail.com> 1707063435 +0100	commit: fix volar
+06d74b6f5c2fbc890bb26099893d56510273041c 16229838fcb7729a5c647d755218c1da0d234cba Mhirii <ahmedmhiri218@gmail.com> 1707080764 +0100	commit: fix load methods
+16229838fcb7729a5c647d755218c1da0d234cba 3ebe5ec2a4d29953f54a05392fa1981248c15f26 Mhirii <ahmedmhiri218@gmail.com> 1707080781 +0100	commit: add illuminate
+3ebe5ec2a4d29953f54a05392fa1981248c15f26 33e2882b5882005efc651045e8240491ea064084 Mhirii <ahmedmhiri218@gmail.com> 1707080788 +0100	commit: add telescope imports
+33e2882b5882005efc651045e8240491ea064084 9c17bf5e3221369e45d75d847cc18ba1dd9cba82 Mhirii <ahmedmhiri218@gmail.com> 1707154967 +0100	commit: add nerdy
+9c17bf5e3221369e45d75d847cc18ba1dd9cba82 3268c8d98daae922f6627f7629c723070872b2f0 Mhirii <ahmedmhiri218@gmail.com> 1707156716 +0100	commit: fix tokyodark
+3268c8d98daae922f6627f7629c723070872b2f0 9b6a2165e87fd9a73f31fd38223d6b1db86c3593 Mhirii <ahmedmhiri218@gmail.com> 1707167966 +0100	commit: add pretty hover
+9b6a2165e87fd9a73f31fd38223d6b1db86c3593 3ce10c5b953824bb5e294a95cacf6268163505fc Mhirii <ahmedmhiri218@gmail.com> 1707167975 +0100	commit: fix load method
+3ce10c5b953824bb5e294a95cacf6268163505fc 4f441942c5e0bfacb5eb5f8d47b602a64d4905ad Mhirii <ahmedmhiri218@gmail.com> 1707167982 +0100	commit: fix notion
+4f441942c5e0bfacb5eb5f8d47b602a64d4905ad da8c6e8cdb6025176099b626654d855bc3975895 Mhirii <ahmedmhiri218@gmail.com> 1707174320 +0100	commit: removed bqf dependencies
+da8c6e8cdb6025176099b626654d855bc3975895 38a691a8abab37bbc5e1039334a65a9e16671961 Mhirii <ahmedmhiri218@gmail.com> 1707174374 +0100	commit: cleanup
+38a691a8abab37bbc5e1039334a65a9e16671961 23a58cd7c5311e9413bb27160bf0ff6b06441446 Mhirii <ahmedmhiri218@gmail.com> 1707174430 +0100	commit: add trouble binds
+23a58cd7c5311e9413bb27160bf0ff6b06441446 876c06759fbcaa46793fb73a30f5e79c683d7f55 Mhirii <ahmedmhiri218@gmail.com> 1707177659 +0100	commit: add key descriptions
+876c06759fbcaa46793fb73a30f5e79c683d7f55 fb679839c2c15a72bb382e3fc22164c4f963c12d Mhirii <ahmedmhiri218@gmail.com> 1707177677 +0100	commit: show cmd row only when recording macro
+fb679839c2c15a72bb382e3fc22164c4f963c12d e11c44e2db06e0d827e2801d7b718b3786dc2a2d Mhirii <ahmedmhiri218@gmail.com> 1707180954 +0100	commit: fix nvterm
+e11c44e2db06e0d827e2801d7b718b3786dc2a2d 4a26b996281c3ebb54ea78a90417539c1efae6f7 Mhirii <ahmedmhiri218@gmail.com> 1707181121 +0100	commit: fix go format conflict
+4a26b996281c3ebb54ea78a90417539c1efae6f7 04cf3f73b67cf629016987b7c2635135eec2b7b5 Mhirii <ahmedmhiri218@gmail.com> 1707183845 +0100	pull --no-edit: Fast-forward
+04cf3f73b67cf629016987b7c2635135eec2b7b5 20f04ec9abaef5052573b1f2016759ee0c4d0a87 Mhirii <ahmedmhiri218@gmail.com> 1707329885 +0100	commit: fix refactoring mappings
+20f04ec9abaef5052573b1f2016759ee0c4d0a87 152877967c277fbea3b597463284090728eed242 Mhirii <ahmedmhiri218@gmail.com> 1707412708 +0100	commit: add gen
+152877967c277fbea3b597463284090728eed242 f6a787cf8c69c252b983c37c90dd6198c3904131 Mhirii <ahmedmhiri218@gmail.com> 1707412761 +0100	commit: format
+f6a787cf8c69c252b983c37c90dd6198c3904131 3c891901cc0c273cb73bd5c727f61ff0de3bb1c7 Mhirii <ahmedmhiri218@gmail.com> 1707412774 +0100	commit: add format bind
+3c891901cc0c273cb73bd5c727f61ff0de3bb1c7 b657b865dc969b8649bc7383094e0c011ebff163 Mhirii <ahmedmhiri218@gmail.com> 1707412779 +0100	commit: fix neoscroll load
+b657b865dc969b8649bc7383094e0c011ebff163 16a2b9b065e86b428140a573bc185090b82445ae Mhirii <ahmedmhiri218@gmail.com> 1707412785 +0100	commit: fix go snippets
+16a2b9b065e86b428140a573bc185090b82445ae ebe102f3b6dd710b4f21f9c274be94df5c75ca80 Mhirii <ahmedmhiri218@gmail.com> 1707418004 +0100	commit: add golang binds
+ebe102f3b6dd710b4f21f9c274be94df5c75ca80 b39861ce6acb784ad2ee6c1b772ee66a0abfd2d7 Mhirii <ahmedmhiri218@gmail.com> 1707418233 +0100	commit: fix misspelled command
+b39861ce6acb784ad2ee6c1b772ee66a0abfd2d7 ab892d99bb6bdca15adfd519ffa9af8f0d16b673 Mhirii <ahmedmhiri218@gmail.com> 1707693630 +0100	commit: add hypr custom theme
+ab892d99bb6bdca15adfd519ffa9af8f0d16b673 85de5955ce3ca7f51bcdcc9838487c541e113594 Mhirii <ahmedmhiri218@gmail.com> 1707706719 +0100	commit: fix ui integrations
+85de5955ce3ca7f51bcdcc9838487c541e113594 833e02e1d39ba1546cc6551d4652530c4c4880a0 Mhirii <ahmedmhiri218@gmail.com> 1707706740 +0100	commit: fix golang diagnostics
+833e02e1d39ba1546cc6551d4652530c4c4880a0 6d8e2700c6c1d0420776c0088ebaf21b1a37282e Mhirii <ahmedmhiri218@gmail.com> 1708299138 +0100	commit: fix codeium load
+6d8e2700c6c1d0420776c0088ebaf21b1a37282e 886f4e8d30c935310f2dae763e5ad4912b9ea13e Mhirii <ahmedmhiri218@gmail.com> 1708299148 +0100	commit: fix hyprlang regex
+886f4e8d30c935310f2dae763e5ad4912b9ea13e f23d7744badbd98409bb5466dd9338a540b61251 Mhirii <ahmedmhiri218@gmail.com> 1708299155 +0100	commit: fix nero theme
+f23d7744badbd98409bb5466dd9338a540b61251 81b525110b6324382cf0c9c171ee6f1412a77d45 Mhirii <ahmedmhiri218@gmail.com> 1708299164 +0100	commit: fix hyprlang load
+81b525110b6324382cf0c9c171ee6f1412a77d45 e31cfc43bc5d29b8ca55d6b3f00406bc551e7181 Mhirii <ahmedmhiri218@gmail.com> 1708299171 +0100	commit: fix hover
+e31cfc43bc5d29b8ca55d6b3f00406bc551e7181 639655a023a603864c186d5f48b2a06eb6a05ce2 Mhirii <ahmedmhiri218@gmail.com> 1708299179 +0100	commit: removed codespell
+639655a023a603864c186d5f48b2a06eb6a05ce2 fcd104fc45e7e667549abdd930d5531743659d8e Mhirii <ahmedmhiri218@gmail.com> 1708299190 +0100	commit: add copilot
+fcd104fc45e7e667549abdd930d5531743659d8e b5b6a7088e13866a249787615b4f27a69b5f9c40 Mhirii <ahmedmhiri218@gmail.com> 1708299221 +0100	commit: fix lsp hover and references
+b5b6a7088e13866a249787615b4f27a69b5f9c40 357a2d29ffbfc038fc5e09fa5b3b1329ef748ae1 Mhirii <ahmedmhiri218@gmail.com> 1708299258 +0100	commit: removed duplicate bind
+357a2d29ffbfc038fc5e09fa5b3b1329ef748ae1 32ca73be6348bdf2d411e9c661ce5af8c7f656f4 Mhirii <ahmedmhiri218@gmail.com> 1709427987 +0100	commit: add idx theme
+32ca73be6348bdf2d411e9c661ce5af8c7f656f4 20f2839eda5c6a1da2e41516ac520997ee9e1ffc Mhirii <ahmedmhiri218@gmail.com> 1709428441 +0100	commit: fix idx
+20f2839eda5c6a1da2e41516ac520997ee9e1ffc 1e6f815664989eed94ffbdcc0303ecfb982ad481 Mhirii <ahmedmhiri218@gmail.com> 1709484531 +0100	commit: add ts error translator
+1e6f815664989eed94ffbdcc0303ecfb982ad481 a0befe09054945878cdaef9bd66eb210d3dcb7d4 Mhirii <ahmedmhiri218@gmail.com> 1709945954 +0100	commit: add copilot bind
+a0befe09054945878cdaef9bd66eb210d3dcb7d4 dd936cd4a54a932b97ed4a6be8170115ed8b51aa Mhirii <ahmedmhiri218@gmail.com> 1709945960 +0100	commit: ts error
+dd936cd4a54a932b97ed4a6be8170115ed8b51aa 7842f78699d4053c91b39b24e7e92a5bb78db4cd Mhirii <ahmedmhiri218@gmail.com> 1709945965 +0100	commit: fix harpoon
+7842f78699d4053c91b39b24e7e92a5bb78db4cd 65b8f7d3dbcad80dc5f46afc2627ec2962c30caf Mhirii <ahmedmhiri218@gmail.com> 1709945976 +0100	commit: update nero theme
+65b8f7d3dbcad80dc5f46afc2627ec2962c30caf 00f228cd95b482944a86c74585aa9c1582b4e58b Mhirii <ahmedmhiri218@gmail.com> 1709945990 +0100	commit: hop mappings
+00f228cd95b482944a86c74585aa9c1582b4e58b 94d089a959f4951a3d826c335aa7d7b6d8d154f9 Mhirii <ahmedmhiri218@gmail.com> 1709945995 +0100	commit: neovide font size
